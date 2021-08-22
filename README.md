@@ -33,7 +33,11 @@ Remember: only the sections which are marked as "To-Do" are the ones you should 
 Feel free to manage your versions as you want.
 
 
-4. Once you finished your project and you are confident about the results, You have to push those details to your forked version of the project The following Git commands should be helpful for you as a reminder : $git add . $git commit -m "commit msg" $git push origin main
+4. Once you finished your project and you are confident about the results, You have to push those details to your forked version of the project The following Git commands should be helpful for you as a reminder : 
+* `$git add .` 
+*  `$git commit -m "commit msg"` 
+*  `$git push origin main`
+
 Once you're done working on the project, submit the link to you repository in the platform.
 
 
